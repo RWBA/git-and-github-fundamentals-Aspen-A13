@@ -1,6 +1,6 @@
 # :wave: The Basics of GitHub 
 
-### FGVHKLSVEG <- Who has done this! This is dispicable!
+### FGVHKLSVEG  *<- Who has done this! This is dispicable!*
 
 ## 🤓 Course overview and learning outcomes 
 
